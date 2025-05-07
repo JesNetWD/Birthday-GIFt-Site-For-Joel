@@ -7,7 +7,7 @@ body {
   font-family: "Happy Monkey", system-ui;
   font-weight: 400;
   font-style: normal;
-  background: linear-gradient(#a2d2ff, #ef80c9);
+  background: linear-gradient(#00f0b5, #f4afb0);
   color: #ffffff;
   text-shadow: 0px 0px 1px black;
   width: 100%;
@@ -23,12 +23,12 @@ header {
 
 #picture {
   border-radius: 50%;
-  border: 6px solid #ef80c9;
+  border: 6px solid #f4afb0;
 }
 
 .b-age,
 .b-year {
-  background-color: #ef80c9;
+  background-color: #f4afb0;
   padding: 5px 10px;
   border-radius: 5px;
 }
